@@ -5,7 +5,7 @@
 ## Prerequisites
 
 > .env
-> Create a .env file inside both folders i.e. Part A and Part B and save your MongoDB credentials in it as
+> Create a .env file inside root folder.
 >>
 ```
 password=your_password
